@@ -1,0 +1,19 @@
+h1 {
+    color:red;
+}
+p {
+    color:blue;
+}
+button {
+    color:brown;
+    background-color: darkblue;
+}
+/* body{
+    /* both work same  */
+    /* background-color: rgb(0,255,0); */
+     /* background-color: #00ff00; */
+/* } */
+ 
+* {
+    background-color: blue;
+}
