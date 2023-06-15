@@ -1,0 +1,24 @@
+/* div {
+    background-color: azure;
+    display: inline;
+}
+button {
+    display: block;
+} */
+
+
+div {
+    height:100px;
+    width:100px;
+    padding:25px;
+    margin:25px;
+    /* display:inline */
+    display:inline-block;
+}
+/* #box2 {
+    display: none;
+} */
+
+#box2 {
+    visibility: hidden;
+}
